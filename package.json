@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "1.6.10",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fstorm": "latest",
+    "hh-mm-ss": "^1.2.0",
+    "jimp": "latest",
+    "libsodium-wrappers": "latest",
+    "node-cron": "^3.0.0",
+    "normalize-date": "latest",
+    "opusscript": "latest",
+    "replace-string": "^3.1.0",
+    "ytdl-core": "latest",
+    "ytpl": "^2.2.1"
+  },
+  "is-music-bot": true
+}
